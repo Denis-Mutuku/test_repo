@@ -1,3 +1,3 @@
 ## README
 
-Repo for meta analysis practice - copied code
+Repo for meta analysis practice - copied code from a public source
